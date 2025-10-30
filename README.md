@@ -50,5 +50,4 @@ This project aims to promote **transparency**, **digital privacy awareness**, an
 
 ---
 
-## 🧩 Project Structure
 
